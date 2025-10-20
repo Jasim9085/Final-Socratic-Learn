@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AI Socratic Tutor",
+  "description": "A web application that simulates a dynamic educational conversation between an AI student and an AI teacher, guided by an AI validator, based on a user's chosen topic. This app brings the logic of a multi-agent learning system to life with a rich user interface.",
+  "requestFramePermissions": [
+    "clipboard-read"
+  ]
+}
